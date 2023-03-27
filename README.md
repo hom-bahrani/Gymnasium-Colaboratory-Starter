@@ -4,6 +4,8 @@ This notebook can be used to render Gymnasium (which is the current maintained f
 
 The main approach is Next to set up a virtual display using the pyvirtualdisplay library. This enables you to render gym environments in Colab, which doesn't have a real display.
 
+https://user-images.githubusercontent.com/8465628/227911278-c29bea8b-f18a-4cf9-9a82-8a0ac9771f66.mov
+
 The advantages of training RL algorithms in colab include:
 
 1. Free GPU and TPU access: Google Colab offers free access to GPUs (e.g., NVIDIA Tesla K80, P4, or T4) and TPUs, which can significantly accelerate the training process for RL models that rely on deep learning.
