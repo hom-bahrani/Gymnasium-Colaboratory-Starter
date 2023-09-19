@@ -2,7 +2,7 @@
 
 This notebook can be used to render Gymnasium (which is the current maintained fork of OpenAI’s Gym library) in Google's Colaboratory.
 
-The main approach is Next to set up a virtual display using the pyvirtualdisplay library. This enables you to render gym environments in Colab, which doesn't have a real display.
+The main approach is to set up a virtual display using the pyvirtualdisplay library. This enables you to render gym environments in Colab, which doesn't have a real display.
 
 https://user-images.githubusercontent.com/8465628/227911278-c29bea8b-f18a-4cf9-9a82-8a0ac9771f66.mov
 
